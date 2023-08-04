@@ -32,12 +32,12 @@ And then some shiny new thing crosses my conciousness when I go to check my emai
 
 
 ### COMPLETED, BUT NOT DELETED
-
-[COMPLETED] 🔬 I'm currently developing a Microsoft Excel workbook that creates a small-scale neural network. I hope this project will help others understand how LLMs work under the hood.
-[COMPLETED] 💞️ My future goal? Collaborating to build my first Dapp. - Built 1 NFT using the 'Hardhat' framework
-[COMPLETED]    Proficient working with the new Excel Lambdas functions and have crated soma prety amazing recursive functions that Excel does not offer natively and which made it so I didn't have to mess with the security issues of VBA and macros (although that was my f
-[ONGOING_FOREVER] 👀 I'm on a mission to dive deep into the world of Solidity and Ethereum, aiming to understand and interact with the underlying mechanics of the emerging web 3.0.
-               'Love Language' and it will always be near and dear to me.
+ - [COMPLETED] 🔬 I'm currently developing a Microsoft Excel workbook that creates a small-scale neural network. I hope this project will help others understand how LLMs work under the hood.
+ - [COMPLETED] 💞️ My future goal? Collaborating to build my first Dapp. - Built 1 NFT using the 'Hardhat' framework
+ - [COMPLETED]    Proficient working with the new Excel Lambdas functions and have crated soma prety amazing recursive functions that Excel does not offer natively and which made it so I didn't have to mess with the security issues of VBA and 
+                   macros (although that was my first 'Love Language' and it will always be near and dear to me.
+ - [ONGOING_FOREVER] 👀 I'm on a mission to dive deep into the world of Solidity and Ethereum, aiming to understand and interact with the underlying mechanics of the emerging web 3.0.
+                 
 
 
 <!---

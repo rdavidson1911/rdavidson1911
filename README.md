@@ -21,10 +21,11 @@ And then some shiny new thing crosses my conciousness when I go to check my emai
 
 
 ## Current Projects 
-# TOP SECRET SOFTWARE PROJECT WITH A GOOD FRIEND
-# CREATING A OBSIDIAN KNOWLEDGE SOFTWARE PLUGIN USING THE ELECTRON / ATOM SOFTWARE FRAMEWORK
-# GOING THROUGH THE PYTHON BUILT-IN LIBRARIES LINE BY LINE - ALSO PANDAS LIBRARIES
-# CREATING 1-2 COLAB JUPYTER NOTEBOOKS PER DAY TO KEEP THE MOMENTUM AND KEEP LEARNING TO WORK SMARTER, NOT HARDER
+---
+TOP SECRET SOFTWARE PROJECT WITH A GOOD FRIEND
+CREATING A OBSIDIAN KNOWLEDGE SOFTWARE PLUGIN USING THE ELECTRON / ATOM SOFTWARE FRAMEWORK
+GOING THROUGH THE PYTHON BUILT-IN LIBRARIES LINE BY LINE - ALSO PANDAS LIBRARIES
+CREATING 1-2 COLAB JUPYTER NOTEBOOKS PER DAY TO KEEP THE MOMENTUM AND KEEP LEARNING TO WORK SMARTER, NOT HARDER
 
 🚀 I've joined the Hugging Face Community to continue building my understanding of Machine Learning and Large Language Models (LLMs). My hope is to eventually contribute to the advancement of humanity and propose applications that will benefit our wonderful world, Earth.  [UPDATE 8/3/23 - Still playing with open source data models, but do most of my playing in Google Colab Jupyter Python Notebooks
 

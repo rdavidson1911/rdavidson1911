@@ -1,4 +1,4 @@
-👋 Hi there, I'm @rdavidson1911!
+# Hi there, I'm @rdavidson1911! 
 
 💡 Currently, I'm immersing myself in the cutting-edge realm of Machine Learning. Why, you ask? It's a field that intertwines the psychological, epistemological, and existential aspects of our world, which I find utterly fascinating. My interests have always been a medley of information technology, philosophy, mathematics, and psychology. Machine Learning manages to encapsulate all these fields in one, making it a thrilling journey!
 
